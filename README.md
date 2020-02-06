@@ -24,6 +24,9 @@ Over the course of a few months each, I'll record data daily on a variety of pla
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
+![IMG_6729](https://user-images.githubusercontent.com/54076839/73980745-83495f80-48f6-11ea-928c-caeddc93d8ff.jpg)
+![IMG_6674](https://user-images.githubusercontent.com/54076839/73980882-bab80c00-48f6-11ea-8424-d9293f56d417.JPG)
+![60245360585__83FD388F-26C5-4611-BC11-B336D82E760B](https://user-images.githubusercontent.com/54076839/73980948-d58a8080-48f6-11ea-9bfb-a6623692160d.JPG)
 
 ## Technologies
 * Python - version 3.8.1
