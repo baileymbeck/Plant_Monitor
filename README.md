@@ -25,11 +25,15 @@ Over the course of a few months each, I'll record data daily on a variety of pla
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
-
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python - version 3.8.1
+* Django - version 3.0.3
+* Raspberry Pi 4 Model B, Quad Core 64 Bit
+
+Courtesy of Adafruit:
+* DHT 22 - Humidity and Temp Sensor
+* TSL2591 High Dynamic Range Digital Light Sensor
+* STEMMA Soil Sensor
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -49,10 +53,10 @@ To-do list:
 * Wow improvement to be done 2
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Being new to programming, I've been having a blast learning new tools and I thought this would be a great start because it combines all my favorite things. I hope to set this up so that it can be easily reproduced by others so that more data can be collected on a wide range of plants.
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+My email is baileymbeck@gmail - feel free to contact me!
