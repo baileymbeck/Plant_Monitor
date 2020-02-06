@@ -12,10 +12,19 @@ Humidity, soil moisture, and light monitoring app for house plants with database
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This project primarly utilizes raspberry pi, python, Django, and sensors
+from Adafruit for the purpose of demystifying phrases like: "low light", 
+"bright indirect light", and "moist but not soggy soil". It can be difficult
+to care for plants and the vague instructions can mean different things to
+different people. I'm hoping that with this project I can provide solid
+data to allow more people to enjoy their houseplant by removing the 
+omnipresent concern of "Was that too much water? ... I'll just give another 
+splash to be sure..."
+Over the course of a few months each, I'll record data daily on a variety of plants with a notes section to provide illustrations of progress through that time. 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
+
 
 ## Technologies
 * Tech 1 - version 1.0
