@@ -19,4 +19,5 @@ from django.urls import path, include
 urlpatterns = [
     path('', admin.site.urls),
     path('notes/', include('notes.urls')),
+    path('humidity/', include('humidity_sensor.urls')),
 ]
