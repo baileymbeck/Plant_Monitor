@@ -31,7 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    # 'humidity_sensor.apps.HumiditySensorConfig',
+    'humidity_sensor.apps.HumiditySensorConfig',
     'notes.apps.NotesConfig',
     'django.contrib.admin',
     'django.contrib.auth',
