@@ -8,5 +8,15 @@
 </head>
 <body>
     <h1>Humidity Sensor</h1>
+    {% for humidity_data in humidity_data %}
+        <h1>Reading:</h1>
+        <p>
+            {{ humidity_data.Humidity }}
+            {{ humidity_data.Temperature }}
+            {{ humidity_data.date }}
+            {{ humidity_data.time }}
+        </p>
+
+    {% endfor %}
 </body>
 </html>
